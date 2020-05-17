@@ -18,7 +18,9 @@ git clone https://github.com/yetulaxman/recipe-slideprep.git
 2. Build (or download) singularity image 
 ```
 sudo singularity build slidefactory.simg slidefactory.def
-  or download directly from allas
+
+              or 
+  
 wget https://a3s.fi/general/slidefactory.simg
 
 ```
@@ -26,6 +28,7 @@ wget https://a3s.fi/general/slidefactory.simg
 
 ```
 singularity run slidefactory.simg  demo.md
+
 ```
 
 
