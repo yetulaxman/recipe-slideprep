@@ -8,7 +8,7 @@ It supports the use of following plugins on the top of [CSC-customised slide-tem
   Write on your slides or on a chalkboard
 
 
-## Create your presentation in cPouta using singularity
+## Create HTML file in cPouta using singularity
 
 1. clone the current repo
 
@@ -29,7 +29,7 @@ singularity run slidefactory.simg  demo.md
 ```
 
 
-## Create your presentation in Puhti using singularity
+## Create HTML file in Puhti using singularity
 
 Just modify your markdown file name and add project information in batch script and run the following command:
 
@@ -38,8 +38,10 @@ sbatch slide_prep_puhti.sh
 
 ```
 
-and finally clone whole repo to local computer and open your presentation:
+## Finally clone current repo along with newly generated HTML to local computer and open your presentation:
+
 ```
 open demo.html
 firefox demo.html
+
 ```
