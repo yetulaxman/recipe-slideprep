@@ -1,6 +1,6 @@
 ## Preparation of the [reveal.js-powered](https://github.com/hakimel/reveal.js/) HTML5 presentations
 
-It supports the use of the following plugins in addition to features from [CSC-customised slide-template](https://github.com/csc-training/slide-template.git):
+It supports the use of following plugins on the top of [CSC-customised slide-template](https://github.com/csc-training/slide-template.git):
 
 * [reveal.js-menu](https://github.com/denehyg/reveal.js-menu) Adds a menu to
   test themes, transitions and jump to slides
