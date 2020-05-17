@@ -1,4 +1,4 @@
-# This repo is meant for preparation of [reveal.js-powered](https://github.com/hakimel/reveal.js/)  presentation
+## Preparation of the [reveal.js-powered](https://github.com/hakimel/reveal.js/) HTML5 presentations
 
 It supports the use of the following plugins in addition to features from [CSC-customised slide-template](https://github.com/csc-training/slide-template.git):
 
