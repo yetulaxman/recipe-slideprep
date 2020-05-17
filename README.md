@@ -15,10 +15,12 @@ It supports the use of the following plugins in addition to features from [CSC-c
 ```
 git clone https://github.com/yetulaxman/recipe-slideprep.git
 ```
-2. Build singularity image 
+2. Build (or download) singularity image 
 ```
+sudo singularity build slidefactory.simg slidefactory.def
   or download directly from allas
 wget https://a3s.fi/general/slidefactory.simg
+
 ```
 3. Creat html file from the markdown file
 
