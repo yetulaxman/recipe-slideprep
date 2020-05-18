@@ -19,7 +19,8 @@ git clone https://github.com/yetulaxman/recipe-slideprep.git
 ```
 sudo singularity build slidefactory.simg slidefactory.def
 ```
-              or download 
+or download 
+
 ```
 wget https://a3s.fi/general/slidefactory.simg
 ```
