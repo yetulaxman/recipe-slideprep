@@ -50,6 +50,7 @@ sbatch slide_prep_puhti.sh
 ### Finally copy repo directory (along with newly generated HTML) to your local computer and open your presentation:
 
 ```
+scp -r username@puhti.csc.fi:/path/of/directory/  .
 open demo.html (Mac)
 firefox demo.html (linux)
 ```
