@@ -10,7 +10,7 @@ This repository enables the use of  the following plugins on the top of [CSC-cus
 
 ### Create HTML file in cPouta environment using singularity
 
-1. Clone the current repository in cPouta VM
+1. Clone the current github repository in cPouta VM
 
 ```
 git clone https://github.com/yetulaxman/recipe-slideprep.git
@@ -33,7 +33,7 @@ singularity run slidefactory.simg  demo.md
 
 ### Create HTML file in Puhti using singularity
 
-Clone current repository to Puhti (e.g., to some directory: /scratch/project_xxxx/) 
+Clone current github repository to Puhti (e.g., to some directory: /scratch/project_xxxx/) 
 
 
 ```
