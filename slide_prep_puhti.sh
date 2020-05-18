@@ -3,9 +3,7 @@
 #SBATCH --partition=test
 #SBATCH --account=project_xxxx
 
-#clone current repo
-git clone https://github.com/yetulaxman/recipe-slideprep.git
-cd recipe-slideprep
+
 # download singularity image 
 wget https://a3s.fi/general/slidefactory.simg
 export TMPDIR=$PWD
