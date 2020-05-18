@@ -8,7 +8,7 @@ It supports the use of following plugins on the top of [CSC-customised slide-tem
   Write on your slides or on a chalkboard
 
 
-## Create HTML file in cPouta using singularity
+### Create HTML file in cPouta using singularity
 
 1. clone the current repo
 
@@ -32,7 +32,7 @@ singularity run slidefactory.simg  demo.md
 ```
 
 
-## Create HTML file in Puhti using singularity
+### Create HTML file in Puhti using singularity
 
 Clone current repo 
 
@@ -50,7 +50,7 @@ sbatch slide_prep_puhti.sh
 
 ```
 
-## Finally copy repo directory (along with newly generated HTML) to your local computer and open your presentation:
+### Finally copy repo directory (along with newly generated HTML) to your local computer and open your presentation:
 
 ```
 open demo.html (Mac)
