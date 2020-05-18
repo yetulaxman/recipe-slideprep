@@ -64,4 +64,4 @@ Once you open your HTML presentation in Chrome browser, add query strings, print
 path/of/file/demo.html?print-pdf&menu=false 
 ```
 
-    
+  and then save as PDF
