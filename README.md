@@ -53,3 +53,13 @@ sbatch slide_prep_puhti.sh
 open demo.html (Mac)
 firefox demo.html (linux)
 ```
+
+### Print pdf-version of generated HTML file 
+
+Once you open your HTML presentation, add query strings, print-pdf and menu at the end of url as shown with demo.html example below.
+
+```
+path/of/file/demo.html?print-pdf&menu=false 
+```
+
+    
