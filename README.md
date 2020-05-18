@@ -48,7 +48,7 @@ sbatch slide_prep_puhti.sh
 ```
 Please note that the HTML file created will have the same name as your markdown file.
 
-### Finally copy repository directory (along with newly generated HTML) to your local computer and then open your presentation:
+### Finally copy the directory of repository (along with newly generated HTML) to your local computer and then open your presentation:
 
 ```
 scp -r username@puhti.csc.fi:/path/of/directory/  .
