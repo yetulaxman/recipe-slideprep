@@ -34,7 +34,16 @@ singularity run slidefactory.simg  demo.md
 
 ## Create HTML file in Puhti using singularity
 
-Just modify your markdown file name and add project information in sbatch script and then run the following command:
+Clone current repo 
+
+
+```
+git clone https://github.com/yetulaxman/recipe-slideprep.git
+cd recipe-slideprep
+
+```
+
+Edit slurm batch script (slide_prep_puhti.sh) with your markdown file name (default: demo.md) and project information  and then run the script as below:
 
 ```
 sbatch slide_prep_puhti.sh
