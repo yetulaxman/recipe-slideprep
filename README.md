@@ -28,7 +28,6 @@ wget https://a3s.fi/general/slidefactory.simg
 
 ```
 singularity run slidefactory.simg  demo.md
-
 ```
 
 
@@ -40,14 +39,12 @@ Clone current repo
 ```
 git clone https://github.com/yetulaxman/recipe-slideprep.git
 cd recipe-slideprep
-
 ```
 
 Edit slurm batch script (slide_prep_puhti.sh) with your markdown file name (default: demo.md) and project information  and then run the script as below:
 
 ```
 sbatch slide_prep_puhti.sh
-
 ```
 
 ### Finally copy repo directory (along with newly generated HTML) to your local computer and open your presentation:
@@ -55,5 +52,4 @@ sbatch slide_prep_puhti.sh
 ```
 open demo.html (Mac)
 firefox demo.html (linux)
-
 ```
