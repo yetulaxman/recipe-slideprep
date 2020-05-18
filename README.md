@@ -7,6 +7,7 @@ This repository enables the use of  the following plugins on the top of [CSC-cus
 * [Chalkboard](https://github.com/rajgoel/reveal.js-plugins/tree/master/chalkboard):
   Write on your slides or on a chalkboard
 
+One can generate HTML files from markdown files either in cPouta or Puhti or even on local desktop environment. Below is the description of minimal recipe on cPouta and Puhti environment.
 
 ### Create HTML file in cPouta environment using singularity
 
