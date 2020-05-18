@@ -2,9 +2,9 @@
 
 This repository enables the use of  the following plugins on the top of [CSC-customised slide-template](https://github.com/csc-training/slide-template.git):
 
-* [reveal.js-menu](https://github.com/denehyg/reveal.js-menu) Adds a menu to
+* [reveal.js-menu](https://github.com/denehyg/reveal.js-menu): Adds a menu to
   test themes, transitions and jump to slides
-* [Chalkbord](https://github.com/rajgoel/reveal.js-plugins/tree/master/chalkboard)
+* [Chalkbord](https://github.com/rajgoel/reveal.js-plugins/tree/master/chalkboard):
   Write on your slides or on a chalkboard
 
 
