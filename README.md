@@ -4,11 +4,11 @@ This repository enables the use of  the following plugins on the top of [CSC-cus
 
 * [reveal.js-menu](https://github.com/denehyg/reveal.js-menu): Adds a menu to
   test themes, transitions and jump to slides
-* [Chalkbord](https://github.com/rajgoel/reveal.js-plugins/tree/master/chalkboard):
+* [Chalkboard](https://github.com/rajgoel/reveal.js-plugins/tree/master/chalkboard):
   Write on your slides or on a chalkboard
 
 
-### Create HTML file in cPouta using singularity
+### Create HTML file in cPouta environment using singularity
 
 1. Clone the current repository in cPouta VM
 
