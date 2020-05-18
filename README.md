@@ -56,7 +56,7 @@ firefox demo.html (linux)
 
 ### Print pdf-version of generated HTML file 
 
-Once you open your HTML presentation, add query strings, print-pdf and menu at the end of url as shown with demo.html example below.
+Once you open your HTML presentation in goolge chrome browser, add query strings, print-pdf and menu at the end of url as shown with demo.html example below.
 
 ```
 path/of/file/demo.html?print-pdf&menu=false 
